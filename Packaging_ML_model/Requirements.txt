@@ -1,0 +1,16 @@
+# creating for specific project for future refference and effective team collaboration
+# Model building requirements
+numpy==1.26.4
+pandas==1.5.3
+joblib==1.2.0
+scikit-learn==1.2.2
+scipy==1.11.1
+pytest==7.2.2
+setuptools==68.0.0
+wheel==0.38.4
+
+
+
+
+##another way for exteacting the version for the dependencies,
+#pip freeze > requirements.txt --> using terminal
